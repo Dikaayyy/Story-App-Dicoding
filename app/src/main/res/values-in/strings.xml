@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="settings">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="stories">Cerita</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="add_new_story">Tambah Cerita Baru</string>
+    <string name="no_image_selected">Tidak ada gambar yang dipilih</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="choose_image">Pilih Gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload_story">Unggah Cerita</string>
+    <string name="file_size_too_large">Ukuran file terlalu besar. Silakan pilih gambar yang lebih kecil.</string>
+    <string name="failed_to_upload_story">Gagal mengunggah cerita</string>
+    <string name="welcome_message">Selamat Datang di Story App</string>
+    <string name="welcome_subtitle">Tempat terbaik untuk membaca dan berbagi cerita</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="login_failed">Gagal Masuk</string>
+    <string name="ok">OK</string>
+    <string name="name">Nama</string>
+    <string name="signup_success">Pendaftaran Berhasil!</string>
+    <string name="signup_failed">Pendaftaran Gagal: Email sudah terdaftar</string>
+    <string name="success">Berhasil</string>
+    <string name="failed">Gagal</string>
+    <string name="password">Kata Sandi</string>
+    <string name="password_error">Kata sandi harus minimal 8 karakter</string>
+    <string name="email">Email</string>
+    <string name="email_error">Alamat email tidak valid</string>
+    <string name="dialog_signup">Belum punya akun? </string>
+    <string name="dialog_login">Sudah punya akun? </string>
+    <string name="exit_app">Tekan kembali lagi untuk keluar</string>
+    <string name="rto">Coba Lagi</string>
+    <string name="no_more_stories">Tidak ada cerita lagi</string>
+    <string name="MAPS_API_KEY">Isi dengan API Key mu</string>
+</resources>
